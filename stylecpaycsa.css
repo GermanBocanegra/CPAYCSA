@@ -301,7 +301,7 @@ img{
         transition: 0.5s;
     }
     .mostrarmenu{
-        font-size:4em;
+        font-size:3em;
         padding-right: 60px;
     }
     .menu{
@@ -317,13 +317,13 @@ img{
         transition: 0.8s;
     }
     .menu a{
-        font-size: 3em;
+        font-size: 2em;
         display: block;
         padding: 20px;
     }
 
     .escondermenu{
-        font-size:4em;
+        font-size:3em;
         position: absolute;
         top: 40px;
         right: 40px;
