@@ -329,7 +329,10 @@ img{
     }
     
     /*CONOCENOS*/
-    
+    .conocenos{
+        padding: 150px;
+        
+    }
     .txconocenos{
         font-weight: 20px;
         justify-content: center;
