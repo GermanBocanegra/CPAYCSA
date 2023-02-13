@@ -329,6 +329,10 @@ img{
     }
     
     /*CONOCENOS*/
+    .quienessomos{
+        font-size: 200em;
+        
+    }
     .conocenos{
         padding: 150px;
     }
