@@ -380,8 +380,9 @@ img{
         bottom: 0px;
         height: 85px;
     }
-    footer .contactowa,.contactofc,.copy{
+    footer .contactowa,.contactofc{
         margin-top: 10px;
+        font-size: 4em;
         text-align: center;
         margin-left: 100px;
         margin-right: 100px;
