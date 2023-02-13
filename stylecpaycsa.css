@@ -344,7 +344,7 @@ img{
     /*seccion 3*/
 
     .productos{
-        background-position: calc(100vw - 900px);
+        background-position: calc(100vw - 1900px);
         margin-bottom: 20px;
     }
     .productos h2{
