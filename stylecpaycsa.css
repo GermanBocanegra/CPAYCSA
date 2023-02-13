@@ -301,6 +301,7 @@ img{
         transition: 0.5s;
     }
     .mostrarmenu{
+        font-size:4em;
         padding-right: 60px;
     }
     .menu{
