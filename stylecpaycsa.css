@@ -323,6 +323,7 @@ img{
     }
 
     .escondermenu{
+        font-size:4em;
         position: absolute;
         top: 40px;
         right: 40px;
