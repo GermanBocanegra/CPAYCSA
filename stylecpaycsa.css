@@ -296,6 +296,7 @@ img{
         display: block;
     }
     .logo{
+        font-size: 3em;
         padding: 0;
         transition: 0.5s;
     }
@@ -315,6 +316,7 @@ img{
         transition: 0.8s;
     }
     .menu a{
+        font-size: 3em;
         display: block;
         padding: 20px;
     }
