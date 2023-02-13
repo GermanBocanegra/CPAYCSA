@@ -327,6 +327,13 @@ img{
     #check:checked ~ .menu{
         right: 0;
     }
+    
+    /*CONOCENOS*/
+    
+    .txconocenos{
+        width: 100%;
+    }
+    
     /*polizas*/
     #nuestraspolizas{
         flex-direction: column;
